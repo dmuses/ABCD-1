@@ -1,6 +1,6 @@
 <?php
 /*
-** Check that the central config file is present.
+** -- Check that the central config file is present.
 ** If missing give hints that the file can be created from a template
 ** Git has only the template, so avoid erroneous overwrites during installation
 ** Text is only in English: supposed only to be read by application installers
